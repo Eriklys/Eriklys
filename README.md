@@ -10,12 +10,15 @@
   ##
   
   <div style="display: inline_block"><br>
-  <img align="center" alt="eriklys-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain .svg">
-  <img align="center" alt="eriklys-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain .svg">
-  <img align="center" alt="eriklys-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original .svg">
-  <img align="center" alt="eriklys-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original .svg">
-  <img align="center" alt="eriklys-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original .svg">
-  <img align="center" alt="eriklys-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original .svg">
-  <img align="center" alt="eriklys-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original .svg">
+  <img align="center" alt="eriklys-Js" height="30" width="40" src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor">
+  <img align="center" alt="eriklys-NODEJs" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=128&color=currentColo">
+  <img align="center" alt="eriklys-React" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor">
+  <img align="center" alt="eriklys-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
+  <img align="center" alt="eriklys-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=104&color=000000">
+  <img align="center" alt="eriklys-JAVA" height="35" width="45" src="https://icongr.am/devicon/java-original.svg?size=148&color=currentColor">
+  <img align="center" alt="eriklys-RUBY" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor">
+  <img align="center" alt="eriklys-SASS" height="30" width="40" src="https://icongr.am/devicon/sass-original.svg?size=148&color=currentColor">
+  <img align="center" alt="eriklys-BOOTSTRAP" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=8100eb">
+   
   
 </div>
