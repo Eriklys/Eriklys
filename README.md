@@ -14,6 +14,7 @@
   <img align="center" alt="eriklys-HTML" height="30" width="40" src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor">
   <img align="center" alt="eriklys-CSS" height="30" width="40" src="https://icongr.am/devicon/css3-original.svg?size=104&color=000000">
   <img align="center" alt="eriklys-BOOTSTRAP" height="30" width="40" src="https://icongr.am/devicon/bootstrap-plain.svg?size=148&color=8100eb">
+  <img align="center" alt="eriklys-typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-original.svg?size=56&color=currentColor"
    
   
 </div>
